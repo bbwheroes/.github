@@ -12,3 +12,7 @@ BBW Heroes is a movement which has the goal to encourage informatics students of
 > **⚠️ Disclaimer:** Our intention and main goal is to create a platform to share and grow together. However, it is not our responsibility how the resources are used. However, follow the licensing, if any, for the respective resource and code and do not sell anything as yours that ist not made by you.
 
 ## Links
+
+_Comming soon..._
+
+<img src="https://discordapp.com/api/guilds/1183343833229045850/widget.png?style=banner2" alt="Discord Banner"/>
