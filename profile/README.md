@@ -13,7 +13,7 @@ BBW Heroes is a movement which has the goal to encourage informatics students of
 
 ## Links
 
-_Comming soon..._
+https://bbwheroes.ch
 
 <a href="https://discord.gg/xbUfU4FYSc" target="_blank">
   <img src="https://discordapp.com/api/guilds/1183343833229045850/widget.png?style=banner2" alt="Discord Banner"/>
